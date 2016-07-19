@@ -72,7 +72,7 @@ hi DiffDelete guifg=#ffffcd guibg=#6d3030 guisp=#6d3030 gui=NONE ctermfg=230 cte
 hi ModeMsg guifg=#7a7a7a guibg=NONE guisp=NONE gui=NONE ctermfg=243 ctermbg=NONE cterm=NONE
 hi CursorColumn guifg=#e2e4e5 guibg=#171717 guisp=#171717 gui=NONE ctermfg=254 ctermbg=233 cterm=NONE
 hi Define guifg=#b70025 guibg=NONE guisp=NONE gui=NONE ctermfg=124 ctermbg=NONE cterm=NONE
-hi Function guifg=#ed002f guibg=NONE guisp=NONE gui=NONE ctermfg=197 ctermbg=NONE cterm=NONE
+hi Function guifg=#439fd0 guibg=NONE guisp=NONE gui=NONE ctermfg=74 ctermbg=NONE cterm=NONE
 hi FoldColumn guifg=#8f8f8f guibg=#2e2e2e guisp=#2e2e2e gui=NONE ctermfg=245 ctermbg=236 cterm=NONE
 hi PreProc guifg=#b70025 guibg=NONE guisp=NONE gui=NONE ctermfg=124 ctermbg=NONE cterm=NONE
 hi Visual guifg=#ffffff guibg=#ed002f guisp=#ed002f gui=NONE ctermfg=15 ctermbg=197 cterm=NONE
@@ -88,7 +88,7 @@ hi PMenu guifg=#4d4d4d guibg=#242424 guisp=#242424 gui=NONE ctermfg=239 ctermbg=
 hi SpecialKey guifg=#292929 guibg=NONE guisp=NONE gui=NONE ctermfg=235 ctermbg=NONE cterm=NONE
 hi Constant guifg=#ef355b guibg=NONE guisp=NONE gui=bold ctermfg=13 ctermbg=NONE cterm=bold
 hi Tag guifg=#0581c4 guibg=NONE guisp=NONE gui=NONE ctermfg=4 ctermbg=NONE cterm=NONE
-hi String guifg=#1a8fce guibg=NONE guisp=NONE gui=NONE ctermfg=32 ctermbg=NONE cterm=NONE
+hi String guifg=#1a8fce guibg=NONE guisp=NONE gui=bold ctermfg=32 ctermbg=NONE cterm=bold
 hi PMenuThumb guifg=#ed002f guibg=#ed002f guisp=#ed002f gui=NONE ctermfg=197 ctermbg=197 cterm=NONE
 hi MatchParen guifg=#ffffff guibg=#ed002f guisp=#ed002f gui=NONE ctermfg=15 ctermbg=197 cterm=NONE
 hi Repeat guifg=#ed002f guibg=NONE guisp=NONE gui=NONE ctermfg=197 ctermbg=NONE cterm=NONE
